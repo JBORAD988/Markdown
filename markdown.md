@@ -95,4 +95,4 @@ snap install code --classic
  * [ ] task three
  * [x] task for
 
-[thsi is IT ](https://networkduck.it)
+> Git Hub @[JBORAD988](https://github.com/JBORAD988)
