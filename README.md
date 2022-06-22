@@ -5,7 +5,7 @@
 
 > ## Now First Things first i mean First Lesson Is Hedings <br>
   <p> In HTML, usually we use Heding tags Like h1 tag </p>
-  hear Is a example of Heading Tag in markdown
+  hear Is a example of Heading Tag in HTML
 
 ```html
 <!doctype html>
